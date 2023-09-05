@@ -1,0 +1,3 @@
+This is the simple code for Add and Drop friend reuest for any user..
+Apart from this effect, I have learned many other effects like mouse follower,Custom cursor, multiple image hovering animation, and insta story feature.
+Let's see what's next for me in the web developement journey...
